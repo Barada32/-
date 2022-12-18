@@ -130,6 +130,22 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FACTORIAL.h" />
+    <ClInclude Include="Header.h" />
+    <ClInclude Include="Constant.cpp" />
+    <ClInclude Include="FILL_RAND.cpp" />
+    <ClInclude Include="SEARCH.cpp" />
+    <ClInclude Include="UNIQUE_RAND.cpp" />
+    <ClInclude Include="SHIFTS.cpp" />
+    <ClInclude Include="MAXVALUE.cpp" />
+    <ClInclude Include="MINVALUE.cpp" />
+    <ClInclude Include="SORT_VYBOR.cpp" />
+    <ClInclude Include="SORT_PYZYR.cpp" />
+    <ClInclude Include="SRSSUM.cpp" />
+    <ClInclude Include="PRINT_ARR.cpp" />
+    <ClInclude Include="SUMM.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

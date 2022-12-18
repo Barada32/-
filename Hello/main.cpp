@@ -1,13 +1,13 @@
-#include<iostream>	//cin/cout
-using namespace std;//cin/cout
-
-void main()
-{
-	setlocale(LC_ALL, "Russian");	//Устанавливает кирилическую кодировку в консоли
-	cout << "C:\\Windows\\System32\\drivers\\\n";
-	cout << "\t\t\t\t\tHello World!\n";
-	cout << "\tПривет\t\"Мир\"!";
-}
+//#include<iostream>	//cin/cout
+//using namespace std;//cin/cout
+//
+//void main()
+//{
+//	setlocale(LC_ALL, "Russian");	//Устанавливает кирилическую кодировку в консоли
+//	cout << "C:\\Windows\\System32\\drivers\\\n";
+//	cout << "\t\t\t\t\tHello World!\n";
+//	cout << "\tПривет\t\"Мир\"!";
+//}
 //Ctrl + F7 - Компиляция
 //Ctrl + F5 - Запуск
 
